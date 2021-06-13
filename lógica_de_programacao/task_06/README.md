@@ -1,0 +1,1 @@
+6. Criar uma função que converta uma temperatura de Celsius para Fahrenhei.
